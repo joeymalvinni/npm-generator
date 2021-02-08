@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "🖥️✨🤖 Generating the acronyms for N-P-M using Machine Learning.",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "test": "mocha tests/index.test.js",
-    "generate": "node generator.js"
+  "author": "Joey Malvinni",
+  "bugs": {
+    "url": "https://github.com/joeymalvinni/npm-generator/issues"
   },
+  "homepage": "https://github.com/joeymalvinni/npm-generator",
   "keywords": [
     "generator",
     "acronyms",
@@ -15,8 +15,16 @@
     "npm-generator",
     "npm-acronyms"
   ],
-  "author": "Joey Malvinni",
-  "license": "ISC",
+  "license": "Apache",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm-expansions"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha tests/index.test.js",
+    "generate": "node generator.js"
+  },
   "dependencies": {
     "bayes": "^1.0.0",
     "biguint-format": "^1.0.2",

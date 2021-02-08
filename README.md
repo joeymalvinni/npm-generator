@@ -1,11 +1,11 @@
 # **npm-generator**
 🖥️✨🤖 Generating the acronyms for N-P-M using Machine Learning.
   
+
   
 Examples include:
   
 - Noise Particles Missing
-- Neural Programming Master
 - Nice Poetry Module
 - New Paragraph Maker
 - NPM: Package Missing
