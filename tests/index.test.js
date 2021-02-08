@@ -62,5 +62,3 @@ describe('Checking if npm-generator is in working order.', function() {
         })
     });
 });
-
-process.exit()

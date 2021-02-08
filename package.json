@@ -22,7 +22,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "mocha tests/index.test.js",
+    "test": "mocha tests/index.test.js --exit",
     "generate": "node generator.js"
   },
   "dependencies": {
