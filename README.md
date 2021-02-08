@@ -1,7 +1,13 @@
 # **npm-generator**
 🖥️✨🤖 Generating the acronyms for N-P-M using Machine Learning.
   
-
+  
+[![Build Status](https://travis-ci.com/joeymalvinni/npm-generator.svg?branch=main)](https://travis-ci.com/joeymalvinni/npm-generator)
+[![GitHub license](https://img.shields.io/github/license/joeymalvinni/npm-generator.svg)](https://github.com/joeymalvinni/npm-generator/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/joeymalvinni/npm-generator.svg)](https://GitHub.com/Naereen/joeymalvinni/npm-generator/contributors/)
+[![Known Vulnerabilities](https://snyk.io/test/github/joeymalvinni/npm-generator/badge.svg?targetFile=package.json)](https://snyk.io/test/github/joeymalvinni/npm-generator?targetFile=package.json)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+  
   
 Examples include:
   
