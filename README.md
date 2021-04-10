@@ -62,3 +62,9 @@ Classify an acronym:
 ```
 npm start --acronym="Node Package Manager"
 ```
+
+## License
+
+This program is licensed by Joey Malvinni under the Apache 2.0 License.
+
+See the [LICENSE](LICENSE) for more info.
