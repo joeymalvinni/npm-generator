@@ -28,7 +28,7 @@
   "dependencies": {
     "bayes": "^1.0.0",
     "biguint-format": "^1.0.2",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^3.1.1"
   },
   "devDependencies": {
     "chai": "*",
